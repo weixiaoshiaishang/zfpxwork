@@ -1,0 +1,32 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "liyulei",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.12.4",
+    "connect-flash": "^0.1.1",
+    "connect-mongo": "^0.8.1",
+    "ejs": "^2.3.1",
+    "express": "^4.12.4",
+    "express-session": "^1.11.3",
+    "markdown-it": "^4.2.2",
+    "sails-mysql": "^0.10.12",
+    "serve-static": "^1.9.3",
+    "super-cache": "0.0.8",
+    "waterline": "^0.10.23",
+    "xss": "^0.2.2"
+  }
+}
